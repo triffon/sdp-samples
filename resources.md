@@ -11,6 +11,8 @@
 
 Амерал, Лендерт (2001) **Алгоритми и структури от данни в С++**. Софтех. ISBN 954-8495-25-2
 
+Азълов, Павел (2008) **Обектно-ориентирано програмиране. Структури от данни и STL**. Сиела. ISBN 978-954-28-0184-9
+
 Cormen, T., Leiserson, C., Rivest, R., Stein, C. (2009)  **Introduction to Algorithms**, 3rd ed. MIT Press. ISBN 978-0-262-03384-8
 
 Sedgewick, R. (1998) **Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching**, 3rd ed. Addison-Wesley
